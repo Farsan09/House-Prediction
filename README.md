@@ -57,3 +57,6 @@ The project is organized into several Jupyter Notebooks, each representing a spe
 1. **Data Prep**: Run `Data Split.ipynb` followed by `EDA & Cleaning.ipynb`.
 2. **Transformation**: Run `Feature Engineering and Encoding.ipynb` to generate the final training vectors.
 3. **Modeling**: Open `XGB Model.ipynb` to see the final training loop and evaluation metrics.
+
+### Data Source
+The link to the dataset is here: https://www.kaggle.com/datasets/shengkunwang/housets-dataset?select=HouseTS.csv
